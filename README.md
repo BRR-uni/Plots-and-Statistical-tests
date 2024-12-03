@@ -11,7 +11,7 @@ The first script was created to make time series plots and correlation joinplots
 
 ### Swarmplot-barplot-overlay_AND_Statistics-test
 
-This script is intended to open an Excel file, read the content, generate plots, and perform statistical test from its data. First a function to avoid overlapping of data points is defined. Next it is defined a function to create a swarmplot on top of a barplot. Additionally, each datapoint is represented a digit to uniquely identify each individual in the experimental group. Later are defined the statistical test to check for normality, equality of variances, and differences between groups. Lastly all variables measured are iterated to generate the correspondin graphs and statistical test.
+This script is intended to open an Excel file, read the content, generate plots, and perform statistical test from its data. First a function to avoid overlapping of data points is defined. Next it is defined a function to create a swarmplot on top of a barplot. Additionally, each datapoint is represented a digit to uniquely identify each individual in the experimental group. Later are defined the statistical test to check for normality, equality of variances, and differences between groups. Lastly all variables measured are iterated to generate the corresponding graphs and statistical test.
 
 
 
